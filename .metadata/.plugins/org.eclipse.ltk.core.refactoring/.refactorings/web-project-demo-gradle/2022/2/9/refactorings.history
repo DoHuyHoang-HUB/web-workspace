@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;web-project-demo-gradle&apos;&#x0D;&#x0A;- Original project: &apos;web-project-demo-gradle&apos;&#x0D;&#x0A;- Original element: &apos;web-project-demo-gradle/lib/src/test/java/web.project.demo.gradle&apos;" description="Delete element" element1="/lib\/src\/test\/java&lt;web.project.demo.gradle" element2="/lib\/src\/test\/java&lt;web.project.demo" element3="/lib\/src\/test\/java&lt;web.project" element4="/lib\/src\/test\/java&lt;web" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1645776702396" subPackages="false" version="1.0"/>
+</session>

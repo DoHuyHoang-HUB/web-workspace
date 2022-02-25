@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="D:\DHCN\Java\Lap_trinh_www_java\Bai tap\web-workspace\web-project-demo-gradle"/>
+		<item key="use_default_location" value="true"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+	</section>
+</section>

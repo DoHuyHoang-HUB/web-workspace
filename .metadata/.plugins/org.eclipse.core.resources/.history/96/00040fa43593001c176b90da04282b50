@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="student-response.jsp">
+		First name: <input type="text" name="firstName" /> <br/>
+		
+		LastName: <input type="text" name="lastName"/> <br/>
+		
+		<select name="country">
+			<option value="Brazil">Brazil</option>
+			<option value="France">France</option>
+			<option value="Germany">Germany</option>
+			<option value="India">India</option>
+			<option value="Turkey">Turkey</option>
+			<option value="United Kingdom">United Kingdom</option>
+			<option value="VietNam">VietNam</option>
+			<option value="United States of America">United States of America</option>
+		</select>
+		
+		<br/>
+		
+		Favorite Programming Language:
+		<div class="form-check">
+		  <label class="form-check-label">
+			<input type="radio" name="favoriteLanguageProgramming" value="Java" checked>
+			Java
+		  </label>
+		  <label class="form-check-label">
+			  <input type="radio" name="favoriteLanguageProgramming" value="C#">
+			  C#
+			</label>
+			<label class="form-check-label">
+			  <input type="radio" name="favoriteLanguageProgramming" value="PHP">
+			  PHP
+			</label>
+			<label class="form-check-label">
+			  <input type="radio" name="favoriteLanguageProgramming" value="Ruby">
+			  Ruby
+			</label>
+		</div>
+		
+		<input type="submit" value="Submit">
+	</form>
+</body>
+</html>

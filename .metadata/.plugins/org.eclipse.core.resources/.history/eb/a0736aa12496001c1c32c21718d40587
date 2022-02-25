@@ -1,0 +1,9 @@
+package com.codingtok.servletdemo;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/StudentListServlet")
+public class StudentListServlet extends HttpServlet {
+
+}

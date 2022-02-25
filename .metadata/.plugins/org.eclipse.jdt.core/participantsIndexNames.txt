@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\DHCN\Java\Lap_trinh_www_java\Bai tap\web-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1262834041.index
+\jspdemo\src\main\java
+D:\DHCN\Java\Lap_trinh_www_java\Bai tap\web-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4252541446.index
+\web-project-demo-maven\src\main\java
+D:\DHCN\Java\Lap_trinh_www_java\Bai tap\web-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2840704789.index
+\jspdemo\src\main\java
+D:\DHCN\Java\Lap_trinh_www_java\Bai tap\web-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2419302655.index
+\servletdemo\src\main\java

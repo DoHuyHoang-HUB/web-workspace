@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="student-response.jsp">
+		First name: <input type="text" name="firstName" /> <br/>
+		
+		LastName: <input type="text" name="lastName"/> <br/>
+		
+		<select name="country">
+			<option value="Brazil">Brazil</option>
+		</select>
+		
+		<input type="submit" value="Submit">
+	</form>
+</body>
+</html>

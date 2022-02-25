@@ -1,0 +1,24 @@
+
+Feb 21, 2022 22:36:54.323 NEW SESSION
+Feb 21, 2022 22:36:54.323 [11496:4476:0221/223654.321:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Feb 21, 2022 22:36:57.280 [11496:5124:0221/223657.280:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 22:36:57.281 [11496:5124:0221/223657.280:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 22:36:57.281 [11496:5124:0221/223657.280:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 22:36:57.285 [11496:5124:0221/223657.285:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 21, 2022 22:36:57.321 [11496:3256:0221/223657.321:ERROR:device_event_log_impl.cc(214)] [22:36:57.321] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 22:36:57.324 [11496:3256:0221/223657.324:ERROR:device_event_log_impl.cc(214)] [22:36:57.323] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 22:36:57.414 [11496:3256:0221/223657.413:ERROR:device_event_log_impl.cc(214)] [22:36:57.413] Bluetooth: bluetooth_adapter_winrt.cc:1206 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 21, 2022 22:36:57.471 [11496:3256:0221/223657.470:ERROR:device_event_log_impl.cc(214)] [22:36:57.470] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadioAdded(), Number of Powered Radios: 1
+Feb 21, 2022 22:36:57.473 [11496:3256:0221/223657.472:ERROR:device_event_log_impl.cc(214)] [22:36:57.472] Bluetooth: bluetooth_adapter_winrt.cc:1299 OnPoweredRadiosEnumerated(), Number of Powered Radios: 1
+Feb 21, 2022 22:37:39.869 [2808:5808:0221/223739.868:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Feb 21, 2022 22:37:42.628 [2808:11292:0221/223742.628:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 22:38:11.682 [15356:7436:0221/223811.681:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Internet Download Manager\IDMGCExt.crx for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek does not exist or is not readable.
+Feb 21, 2022 22:38:14.251 [15356:2528:0221/223814.250:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 22:38:14.252 [15356:2528:0221/223814.251:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 22:38:14.252 [15356:2528:0221/223814.251:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 22:38:14.256 [15356:2528:0221/223814.256:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 21, 2022 22:38:14.289 [15356:9924:0221/223814.288:ERROR:device_event_log_impl.cc(214)] [22:38:14.289] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 22:38:14.291 [15356:9924:0221/223814.291:ERROR:device_event_log_impl.cc(214)] [22:38:14.291] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 22:38:14.351 [15356:9924:0221/223814.350:ERROR:device_event_log_impl.cc(214)] [22:38:14.351] Bluetooth: bluetooth_adapter_winrt.cc:1206 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Feb 21, 2022 22:38:14.397 [15356:9924:0221/223814.396:ERROR:device_event_log_impl.cc(214)] [22:38:14.396] Bluetooth: bluetooth_adapter_winrt.cc:1284 OnPoweredRadioAdded(), Number of Powered Radios: 1
+Feb 21, 2022 22:38:14.399 [15356:9924:0221/223814.398:ERROR:device_event_log_impl.cc(214)] [22:38:14.398] Bluetooth: bluetooth_adapter_winrt.cc:1299 OnPoweredRadiosEnumerated(), Number of Powered Radios: 1

@@ -1,0 +1,14 @@
+package com.codingtok.servletdemo;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/StudentListServlet")
+public class StudentListServlet extends HttpServlet {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2201273395056461915L;
+
+}

@@ -1,0 +1,18 @@
+package com.codingtok.servletdemo;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/HelloWorldServlet")
+public class HelloWorldServlet extends HttpServlet {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 5826094809505046999L;
+	
+	public HelloWorldServlet() {
+		super();
+	}
+
+}
